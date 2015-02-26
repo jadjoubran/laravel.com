@@ -1571,3 +1571,10 @@ body.the-404 .contain {
   body.the-404 .contain .content, body.the-404 .contain .media {
     display: table-cell;
     vertical-align: middle; }
+
+.get-started {
+  text-align: center;
+  margin-top: 60px; }
+
+.get-started .btn {
+  padding: 13px 28px !important; }
